@@ -23,7 +23,7 @@ const Portfolio = () => {
             <img src={IMG1 } alt="" />
 
           </div>
-          <h3>This is a online food order website(only frontend).</h3>
+          <h3>This is an online food order website(only frontend).</h3>
             <div className="portfolio__item-cta">
             <a href="https://github.com/radhika-020/Food_Order_Website_Project-main-master" className="btn" target="_blank">Github</a>
             <a href="https://orderfoodhere.netlify.app/" className="btn btn-primary"  target="_blank">Live Demo</a>
@@ -37,7 +37,7 @@ const Portfolio = () => {
             <img src={IMG2 } alt="" />
 
           </div>
-          <h3>This is a Chrome Extension which can save currently opened tabs, also allows to enter URL manually.</h3>
+          <h3>This is a Chrome Extension which can save URL of the tabs.</h3>
             <div className="portfolio__item-cta">
             <a href="https://github.com/radhika-020/Java-Script-Scrimba/tree/master/Chrome%20Extension" className="btn" target="_blank">Github</a>
             {/* <a href="https://drum-kit-bysk.netlify.app/" className="btn btn-primary"  target="_blank">Live Demo</a> */}

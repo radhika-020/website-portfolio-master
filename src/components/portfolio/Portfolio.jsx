@@ -65,7 +65,7 @@ const Portfolio = () => {
             <img src={IMG4 } alt="" />
 
           </div>
-          <h3>This is a Website Portfolio created using React.</h3>
+          <h3>This is a Website Portfolio created using React JS.</h3>
             <div className="portfolio__item-cta">
             <a href="https://github.com/radhika-020/website-portfolio-master" className="btn" target="_blank">Github</a>
             <a href="https://radhikaarora.netlify.app/" className="btn btn-primary"  target="_blank">Live Demo</a>

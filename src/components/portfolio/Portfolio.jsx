@@ -1,9 +1,9 @@
 import React from 'react'
 import './portfolio.css'
 import IMG1 from '../../assets/portfolio1.png'
-import IMG2 from '../../assets/portfolio2.png'
-import IMG3 from '../../assets/portfolio3.png'
-import IMG4 from '../../assets/portfolio4.png'
+import IMG2 from '../../assets/img2.jpg'
+import IMG3 from '../../assets/img3.jpg'
+import IMG4 from '../../assets/Screenshot (254).png'
 import IMG5 from '../../assets/portfolio5.png'
 import IMG6 from '../../assets/portfolio6.jpg'
 
@@ -37,7 +37,7 @@ const Portfolio = () => {
             <img src={IMG2 } alt="" />
 
           </div>
-          <h3>This is a Chrome Extension which can save currently opened tabs and also allows to enter URL manually.</h3>
+          <h3>This is a Chrome Extension which can save currently opened tabs, also allows to enter URL manually.</h3>
             <div className="portfolio__item-cta">
             <a href="https://github.com/radhika-020/Java-Script-Scrimba/tree/master/Chrome%20Extension" className="btn" target="_blank">Github</a>
             {/* <a href="https://drum-kit-bysk.netlify.app/" className="btn btn-primary"  target="_blank">Live Demo</a> */}

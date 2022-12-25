@@ -23,7 +23,7 @@ const Portfolio = () => {
             <img src={IMG1 } alt="" />
 
           </div>
-          <h3>This is a online food order website (only frontend)</h3>
+          <h3>This is a online food order website(only frontend).</h3>
             <div className="portfolio__item-cta">
             <a href="https://github.com/radhika-020/Food_Order_Website_Project-main-master" className="btn" target="_blank">Github</a>
             <a href="https://orderfoodhere.netlify.app/" className="btn btn-primary"  target="_blank">Live Demo</a>
@@ -37,7 +37,7 @@ const Portfolio = () => {
             <img src={IMG2 } alt="" />
 
           </div>
-          <h3>This is a Chrome Extension which can save currently opened tabs and also allows to enter URL of the tabs manually.</h3>
+          <h3>This is a Chrome Extension which can save currently opened tabs and also allows to enter URL manually.</h3>
             <div className="portfolio__item-cta">
             <a href="https://github.com/radhika-020/Java-Script-Scrimba/tree/master/Chrome%20Extension" className="btn" target="_blank">Github</a>
             {/* <a href="https://drum-kit-bysk.netlify.app/" className="btn btn-primary"  target="_blank">Live Demo</a> */}
@@ -51,7 +51,7 @@ const Portfolio = () => {
             <img src={IMG3 } alt="" />
 
           </div>
-          <h3>This is a Music Player created using Android Studio with Java and XML. We can loop, pause the songs, and it also allows the functionality of getting to previous or the next songs. Note that the songs should be already present in your internal memory.</h3>
+          <h3>This is a Music Player created using Android Studio with Java and XML.</h3>
             <div className="portfolio__item-cta">
             <a href="https://github.com/radhika-020/LYSoul" className="btn" target="_blank">Github</a>
             {/* <a href="https://github.com" className="btn btn-primary"  target="_blank">Live Demo</a> */}

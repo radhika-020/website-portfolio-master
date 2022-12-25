@@ -37,10 +37,10 @@ const Portfolio = () => {
             <img src={IMG2 } alt="" />
 
           </div>
-          <h3>This is a Drum kit webiste (With different drum sounds)</h3>
+          <h3>This is a Chrome Extension which can save currently opened tabs and also allows to enter URL of the tabs manually.</h3>
             <div className="portfolio__item-cta">
-            <a href="https://github.com/sudhanshukes65/drum-kit" className="btn" target="_blank">Github</a>
-            <a href="https://drum-kit-bysk.netlify.app/" className="btn btn-primary"  target="_blank">Live Demo</a>
+            <a href="https://github.com/radhika-020/Java-Script-Scrimba/tree/master/Chrome%20Extension" className="btn" target="_blank">Github</a>
+            {/* <a href="https://drum-kit-bysk.netlify.app/" className="btn btn-primary"  target="_blank">Live Demo</a> */}
 
             </div>
         </article>
@@ -51,15 +51,15 @@ const Portfolio = () => {
             <img src={IMG3 } alt="" />
 
           </div>
-          <h3>This is a line follower robot (In online simulator webots)</h3>
+          <h3>This is a Music Player created using Android Studio with Java and XML. We can loop, pause the songs, and it also allows the functionality of getting to previous or the next songs. Note that the songs should be already present in your internal memory.</h3>
             <div className="portfolio__item-cta">
-            <a href="https://github.com/sudhanshukes65/LineFollowerWebots" className="btn" target="_blank">Github</a>
+            <a href="https://github.com/radhika-020/LYSoul" className="btn" target="_blank">Github</a>
             {/* <a href="https://github.com" className="btn btn-primary"  target="_blank">Live Demo</a> */}
 
             </div>
         </article>
 
-        <article className="portfolio__item">
+        {/* <article className="portfolio__item">
 
           <div className="portfolio__item-image">
             <img src={IMG4 } alt="" />
@@ -71,7 +71,7 @@ const Portfolio = () => {
             <a href="https://crypto-tracker-bysk.netlify.app/" className="btn btn-primary"  target="_blank">Live Demo</a>
 
             </div>
-        </article>
+        </article> */}
 
         {/* <article className="portfolio__item">
 

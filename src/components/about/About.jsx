@@ -34,9 +34,8 @@ const about = () => {
           </div>
 
           <p>
-          Passionate coder and developer.
-Extremely motivated to contribute to organisational success while developing new skills and gaining real-world experience.
-Always ready to learn new things, explore my potential and  well-versed Python and DBMS - SQL. 
+          An Innovative Programmer and aspiring Software Engineer striving to make the world a more unified and connected place.
+Always keen to adapt new things, explore my potential and well-versed in Python and DBMS - SQL. 
 
 
           </p>

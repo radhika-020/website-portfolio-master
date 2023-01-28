@@ -80,7 +80,7 @@ const Portfolio = () => {
   <img src={IMG7 } alt="" />
 
 </div>
-<h3>This is a Rolling Dice game created using Python and its libraries.</h3>
+<h3>This is a simple Rolling Dice game created using Python and its libraries.</h3>
   <div className="portfolio__item-cta">
   <a href="https://github.com/radhika-020/dice-rolling-simulator-python-code" className="btn" target="_blank">Github</a>
   {/* <a href="https://radhikaarora.netlify.app/" className="btn btn-primary"  target="_blank">Live Demo</a> */}

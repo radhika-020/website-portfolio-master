@@ -26,7 +26,7 @@ const Portfolio = () => {
           </div>
           <h3>This is an online food order website(only frontend).</h3>
             <div className="portfolio__item-cta">
-            <a href="https://github.com/radhika-020/Food_Order_Website_Project-main-master" className="btn" target="_blank">Github</a>
+            <a href="https://github.com/radhika-020/Food_Order_Website_Project-main-master" className="btn" target="_blank">GitHub</a>
             <a href="https://orderfoodhere.netlify.app/" className="btn btn-primary"  target="_blank">Live Demo</a>
 
             </div>
@@ -40,7 +40,7 @@ const Portfolio = () => {
           </div>
           <h3>This is a Chrome Extension which can save URL of the tabs.</h3>
             <div className="portfolio__item-cta">
-            <a href="https://github.com/radhika-020/Java-Script-Scrimba/tree/master/Chrome%20Extension" className="btn" target="_blank">Github</a>
+            <a href="https://github.com/radhika-020/Java-Script-Scrimba/tree/master/Chrome%20Extension" className="btn" target="_blank">GitHub</a>
             {/* <a href="https://drum-kit-bysk.netlify.app/" className="btn btn-primary"  target="_blank">Live Demo</a> */}
 
             </div>
@@ -54,7 +54,7 @@ const Portfolio = () => {
           </div>
           <h3>This is a Music Player created using Android Studio with Java and XML.</h3>
             <div className="portfolio__item-cta">
-            <a href="https://github.com/radhika-020/LYSoul" className="btn" target="_blank">Github</a>
+            <a href="https://github.com/radhika-020/LYSoul" className="btn" target="_blank">GitHub</a>
             {/* <a href="https://github.com" className="btn btn-primary"  target="_blank">Live Demo</a> */}
 
             </div>
@@ -68,7 +68,7 @@ const Portfolio = () => {
           </div>
           <h3>This is a Website Portfolio created using React JS.</h3>
             <div className="portfolio__item-cta">
-            <a href="https://github.com/radhika-020/website-portfolio-master" className="btn" target="_blank">Github</a>
+            <a href="https://github.com/radhika-020/website-portfolio-master" className="btn" target="_blank">GitHub</a>
             <a href="https://radhikaarora.netlify.app/" className="btn btn-primary"  target="_blank">Live Demo</a>
 
             </div>
@@ -82,7 +82,7 @@ const Portfolio = () => {
 </div>
 <h3>This is a simple Rolling Dice game created using Python and its libraries.</h3>
   <div className="portfolio__item-cta">
-  <a href="https://github.com/radhika-020/dice-rolling-simulator-python-code" className="btn" target="_blank">Github</a>
+  <a href="https://github.com/radhika-020/dice-rolling-simulator-python-code" className="btn" target="_blank">GitHub</a>
   {/* <a href="https://radhikaarora.netlify.app/" className="btn btn-primary"  target="_blank">Live Demo</a> */}
 
   </div>

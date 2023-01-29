@@ -27,7 +27,7 @@ const contact = () => {
 
         <article className="contact__option">
           <ImWhatsapp className='contact__option-icon'/>
-          <h4>Whatsapp</h4>
+          <h4>WhatsApp</h4>
           <h5>aradhika880@gmail.com</h5>
           <a href="aradhika880@gmail.com" target='_blank'>Send a message</a>
         </article>

@@ -5,6 +5,7 @@ import IMG2 from '../../assets/img2.jpg'
 import IMG3 from '../../assets/img6.jpg'
 import IMG4 from '../../assets/img5.jpg'
 import IMG7 from '../../assets/img7.png'
+import IMG8 from '../../assets/img8.png'
 import IMG5 from '../../assets/portfolio5.png'
 import IMG6 from '../../assets/portfolio6.jpg'
 
@@ -84,6 +85,19 @@ const Portfolio = () => {
   <div className="portfolio__item-cta">
   <a href="https://github.com/radhika-020/dice-rolling-simulator-python-code" className="btn" target="_blank">GitHub</a>
   {/* <a href="https://radhikaarora.netlify.app/" className="btn btn-primary"  target="_blank">Live Demo</a> */}
+
+  </div>
+</article>
+<article className="portfolio__item">
+
+<div className="portfolio__item-image">
+  <img src={IMG8 } alt="" />
+
+</div>
+<h3>This is a dynamic website created using React JS with the concept of Linked List.</h3>
+  <div className="portfolio__item-cta">
+  <a href="https://github.com/radhika-020/Snake-Game" className="btn" target="_blank">GitHub</a>
+  <a href="https://play-snake-game.vercel.app/" className="btn btn-primary"  target="_blank">Live Demo</a>
 
   </div>
 </article>
